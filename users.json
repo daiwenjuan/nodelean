@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "name": "小明",
+      "password": "password1",
+      "profession": "teacher",
+      "id": 1
+    },
+    {
+      "name": "小红",
+      "password": "password1",
+      "profession": "teacher",
+      "id": 2
+    },
+    {
+      "name": "小李",
+      "password": "password1",
+      "profession": "teacher",
+      "id": 3
+    },
+    {
+      "name": "小王",
+      "password": "password1",
+      "profession": "teacher",
+      "id": 4
+    },
+    {
+      "name": "校长",
+      "password": "password1",
+      "profession": "teacher",
+      "id": 5
+    },
+    {
+      "name": "老师",
+      "password": "password1",
+      "profession": "teacher",
+      "id": 6
+    }
+  ]
+}
