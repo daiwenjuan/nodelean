@@ -1,39 +1,31 @@
 {
   "users": [
     {
-      "name": "小明",
-      "password": "password1",
-      "profession": "teacher",
+      "name": "javascript+dom编程艺术",
       "id": 1
     },
     {
-      "name": "小红",
-      "password": "password1",
-      "profession": "teacher",
+      "name": "JavaScript高级程序设计",
       "id": 2
     },
     {
-      "name": "小李",
-      "password": "password1",
-      "profession": "teacher",
+      "name": "javaScript权威指南",
       "id": 3
     },
     {
-      "name": "小王",
-      "password": "password1",
-      "profession": "teacher",
+      "name": "javaScript语言精粹",
       "id": 4
     },
     {
-      "name": "校长",
-      "password": "password1",
-      "profession": "teacher",
+      "name": "Head first HTML&CSS",
       "id": 5
     },
     {
-      "name": "老师",
-      "password": "password1",
-      "profession": "teacher",
+      "name": "CSS权威指南",
+      "id": 6
+    },
+    {
+      "name": "CSS禅意花园",
       "id": 6
     }
   ]
